@@ -5,7 +5,7 @@ ul > li:first-child > span {
   background-color: red;
   color: white;
 }
-li:last-child {
+li:last-child > span {
   background-color: black;
   color: white;
 }
