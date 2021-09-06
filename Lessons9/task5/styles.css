@@ -2,7 +2,7 @@
   box-sizing: border-box;
   margin: 0px;
 }
-header {
+.header {
   background-color: darkturquoise;
   height: 40px;
   width: 100%;
