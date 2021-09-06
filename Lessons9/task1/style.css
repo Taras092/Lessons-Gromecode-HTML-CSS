@@ -40,20 +40,20 @@ div {
 .container {
   height: 2000px;
 }
-static-parent {
+.static-parent {
   float: static;
 }
-relative-parent {
+.relative-parent {
   float:relative;
   bottom: 20px;
   right: 50px;
 }
-absolute-parent {
+.absolute-parent {
   float: absolute;
   bottom: 20px;
   right: 50px;
 }
-fixsed-parent {
+.fixsed-parent {
   float: fixed;
   bottom: 20px;
   left: 30px;
