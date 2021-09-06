@@ -1,0 +1,81 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+header {
+  background-color: darkturquoise;
+  height: 40px;
+  position:fixed;
+  top: 0px;
+  bottom: 0px;
+  right: 0px;
+  left: 0px;
+}
+.nav {
+  height: 40px;
+}
+.nav-content {
+  display: flex;
+  line-height: 40px;
+}
+.nav-item {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+  margin: 0px 0px 0px 16px;
+  color: white;
+}
+.main-content {
+  clear: both;
+  background-color: beige;
+  height: 5000px;
+}
+.ears {
+  height: 60px;
+  width: 40px;
+  background-color: brown;
+}
+.ears1 {
+  position: relative;
+  right: 40px;
+  bottom: 60px;
+}
+.ears2 {
+  position: relative;
+  bottom: 120px;
+  left: 200px;
+}
+.header-bear {
+  /* display: block; */
+  width: 200px;
+  height: 200px;
+  background-color: aquamarine;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, -50%)
+  /* margin: 500px auto; */
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  /* position: relative; */
+  /* top: 200px; */
+  /* left: 300px; */
+}
+.bear-eyes {
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  background-color: gray;
+}
+.eyes2 {
+  position: relative;
+  top: -60px;
+  left: 130px;
+}
+.eyes1 {
+  position: relative;
+  left: 40px;
+  bottom: 30px;
+}
