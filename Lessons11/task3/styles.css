@@ -32,7 +32,7 @@
 .dropdown:hover .menu-list{
   display: block;
 }
-.dropdown:hover {
+.dropdown:hover .menu-button {
   opacity: 1;
 }
 .menu-list:hover .menu-item {
