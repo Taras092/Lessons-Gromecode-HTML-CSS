@@ -6,7 +6,7 @@
   background-color: bisque;
   margin: 8px;
   padding: 16px;
-  flex-basis:20%;
+  flex-basis:200px;
   flex-shrink: 1;
   flex-grow: 1;
 }
