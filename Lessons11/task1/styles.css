@@ -6,7 +6,7 @@ div > div {
 .none {
   display: none;
 }
-.hiden {
+.hidden {
   visibility: hidden;
 }
 .visible {
