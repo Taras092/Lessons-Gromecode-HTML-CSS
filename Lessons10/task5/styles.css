@@ -6,8 +6,8 @@
   background-color: bisque;
   margin: 8px;
   padding: 16px;
-  flex-basis:300px;
-  /* flex-shrink: 0; */
+  flex-basis:268px;
+  /* flex-shrink: 1; */
   flex-grow: 1;
 }
 .articles-list {
