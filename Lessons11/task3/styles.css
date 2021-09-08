@@ -13,6 +13,7 @@
 }
 .dropdown {
   margin: 16px;
+  display: inline-block;
 }
 .menu-list {
   list-style-type: none;
