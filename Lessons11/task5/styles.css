@@ -1,8 +1,10 @@
 .gallery {
   display: flex;
-  margin: 8px;
   overflow: auto;
 }
 .gallery:hover {
   cursor: all-scroll;
+}
+.thumb {
+  margin: 8px;
 }
