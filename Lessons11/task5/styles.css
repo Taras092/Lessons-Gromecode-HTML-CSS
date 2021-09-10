@@ -1,0 +1,8 @@
+.gallery {
+  margin: 8px;
+  overflow: auto;
+  height: 225px;
+}
+.gallery:hover {
+  cursor: all-scroll;
+}
