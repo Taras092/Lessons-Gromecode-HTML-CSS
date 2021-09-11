@@ -2,6 +2,7 @@ html {
   font-family: Verdana, sans-serif;
 }
 h1 {
+  margin: auto;
   font-size: 74px;
   text-align: center;
   width: 50vw;
