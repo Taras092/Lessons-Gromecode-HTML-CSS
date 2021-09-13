@@ -6,7 +6,9 @@
   text-transform: uppercase;
   font-weight: 700;
   opacity: 0.5;
-  text-align: center;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
   position: absolute;
   top: calc(50% - 25px);
   left:calc(50% - 100px) ;
