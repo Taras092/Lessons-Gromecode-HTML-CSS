@@ -13,24 +13,17 @@ td {
   height: 50px;
   text-align: center;
 }
-.letters-chess-top {
+.letters-chess {
   border: transparent;
-}
-.letters-chess-bottom {
-border: transparent;
+  background-color: transparent !important;
 }
 .number-chess {
   border: transparent;
+  background-color: transparent !important;
 }
-tbody tr:nth-child(even) td:nth-child(even) {
+tbody tr:nth-child(even) td:nth-child(odd) {
   background-color: black;
 }
-tbody tr:nth-child(even) td:nth-child(10) {
-  background-color: transparent;
-}
-tbody tr:nth-child(odd) td:nth-child(odd) {
+tbody tr:nth-child(odd) td:nth-child(even) {
   background-color: black;
-}
-tbody tr:nth-child(odd) td:nth-child(1) {
-  background-color: transparent;
 }
