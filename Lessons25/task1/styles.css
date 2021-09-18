@@ -26,10 +26,11 @@ div {
   width: 176px;
   height: 64px;
   text-align: center;
-  line-height: 30px;
+  line-height: 43px;
   font-family:Montserrat;
   font-size: 35px;
   font-weight: 700;
+  font-style: normal;
   margin:36px 102px;
 } 
 .little__title {
@@ -37,6 +38,7 @@ div {
   font-size: 20px;
   font-weight: 300;
   line-height: 24px;
+  font-style: normal;
 }
 .price-card__price {
   width: 100%;
@@ -47,6 +49,7 @@ div {
   font-size: 55px;
   font-family: Montserrat;
   font-weight: 700;
+  font-style: normal;
 }
 .one-colum {
   background-color: #5BB189;
@@ -66,6 +69,7 @@ div {
   font-family:Montserrat;
   color: #FFFFFF;
   text-align: center;
+  font-style: normal;
 }
 .price-card__options-list {
   width: 100%;
@@ -75,6 +79,7 @@ div {
   font-weight: 300;
   font-family: Montserrat;
   color: #FFFFFF;
+  font-style: normal;
 }
 .price-card__options-list:nth-child(even) {
   background-color: #2A3438;
