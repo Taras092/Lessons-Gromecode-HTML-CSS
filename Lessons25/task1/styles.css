@@ -12,20 +12,18 @@ div {
   max-height: 770px;
 }
 .main-price {
-  width: 1440px;
-  height: 1000px;
   display: flex;
   justify-content: center;
   align-items: center;
 }
-.one-price {
-  margin: 115px 0px;
+.price-card-one {
+  margin: 65px 0px;
 }
-.two-price {
-  margin: 115px 15px;
+.price-card-two {
+  margin: 65px 15px;
 }
-.three-price {
-  margin: 112px 0px 118px;
+.price-card-three {
+  margin: 62px 0px;
 }
 .price-card-title {
   width: 100px;
@@ -97,6 +95,9 @@ span {
   font-size: 15px;
   font-weight: 300;
   font-family: Montserrat;
+}
+.colum-content:nth-child(even) {
+  background-color: #2A3438;
 }
 .ticket-img {
   width: 15px;
