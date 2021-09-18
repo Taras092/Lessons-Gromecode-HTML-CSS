@@ -12,6 +12,8 @@ div {
   max-height: 770px;
 }
 .main-price {
+  width: 1440px;
+  height: 1000px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -25,7 +27,7 @@ div {
 .three-price {
   margin: 112px 0px 118px;
 }
-.nameColumOne {
+.price-card-title {
   width: 100px;
   height: 64px;
   text-align: center;
@@ -35,7 +37,7 @@ div {
   font-weight: 700;
   margin: 33px 140px;
 }
-.nameColumTwo {
+.price-card-title {
   width: 164px;
   height: 64px;
   text-align: center;
@@ -45,7 +47,7 @@ div {
   font-weight: 700;
   margin:33px 108px;
 }
-.nameColumThree {
+.price-card-title {
   width: 176px;
   height: 64px;
   text-align: center;
