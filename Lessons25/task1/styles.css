@@ -67,8 +67,8 @@ div {
   width: 122px;
   height: 123px;
   overflow: hidden;
-  top: -20px;
-  right: -20px;
+  top: -18px;
+  right: -18px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -108,8 +108,13 @@ div {
   color: #FFFFFF;
   font-style: normal;
 }
+.price-card.two .price-card__options-list:nth-child(odd),
 .price-card__options-list:nth-child(even) {
   background-color: #2A3438;
+}
+.price-card.two .price-card__options-list:nth-child(even),
+.price-card__options-list:nth-child(odd) {
+  background-color: transparent;
 }
 .ticket-img {
   width: 15px;
