@@ -108,4 +108,8 @@ img {
     flex-direction: row;
     flex-grow: 1;
   }
+  .navigation {
+    width: 20%;
+    flex-basis: 20%;
+  }
 }
