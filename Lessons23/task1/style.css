@@ -34,10 +34,10 @@ html {
 
 .menu__item_active {
   color: yellow;
-  text-align: center;
 }
 
 .submenu {
+  position: absolute;
   padding: 0;
   margin: 0;
   background-color: #ff7f50;
