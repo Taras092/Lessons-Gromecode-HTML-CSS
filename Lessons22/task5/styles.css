@@ -99,11 +99,11 @@ img {
   .navigation {
     flex: 1;
   }
-  /* .nav-list-item {
+  .nav-list-item {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
-  } */
+  }
   .section {
     flex: 4;
   }
