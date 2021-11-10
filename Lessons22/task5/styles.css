@@ -114,6 +114,6 @@ img {
   }
   .section {
     width: 60%;
+    flex-basis: 60%;
   }
-  
 }
