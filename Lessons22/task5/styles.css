@@ -112,4 +112,7 @@ img {
     width: 20%;
     flex-basis: 20%;
   }
+  .products {
+    width: 80%;
+  }
 }
