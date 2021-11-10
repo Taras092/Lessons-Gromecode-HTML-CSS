@@ -34,23 +34,22 @@ body {
 .products {
   display:flex;
   flex-direction: column;
+  flex-basis: 80%;
 }
 .navigation {
-  display: flex;
   flex: 1;
+  flex-basis: 20%;
   padding: 0.5em;
 }
 .section {
-  display: flex;
   flex: 1;
-  flex-direction: column;
+  flex-basis: 60%;
   padding: 0.5em;
   font-size: 1.25em;
 }
 .news {
-  display: flex;
   flex: 1;
-  flex-direction: column;
+  flex-basis: 20%;
   padding: 0.5em;
 }
 
@@ -97,7 +96,7 @@ img {
     flex-direction: row;
   }
   .navigation {
-    flex: 1;
+    flex-basis: 20%;
   }
   .nav-list-item {
     overflow: hidden;
@@ -105,7 +104,7 @@ img {
     text-overflow: ellipsis;
   }
   .section {
-    flex: 4;
+    flex-basis: 80%;
   }
 }
 
@@ -114,11 +113,5 @@ img {
     display: flex;
     flex-direction: row;
     flex-grow: 1;
-  }
-  .products {
-    flex: 4;
-  }
-  .section {
-    flex: 3;
   }
 }
