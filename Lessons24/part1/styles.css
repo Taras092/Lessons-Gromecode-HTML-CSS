@@ -1,0 +1,53 @@
+body {
+  font-family: 'Work Sans', sans-serif;
+  margin: 0;
+  background-color: #F3C6BD;
+}
+
+.header {
+  display: flex;
+  width: 1140px;
+  height: 62px;
+  margin-top: 39px;
+  margin-left: 130px;
+  margin-right: 130px;
+}
+.logo {
+  display: flex;
+  width: 299px;
+  height: 60px;
+}
+.logo__image {
+  width: 60px;
+  height: 60px;
+}
+.logo-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  height: 51px;
+  width: 222px;
+  margin-left: 15px;
+}
+.logo__name {
+  font-weight: 700;
+}
+.navigation {
+  width: 273px;
+  height: 25px;
+  margin-left: 335px;
+}
+.nav-list {
+  display: flex;
+  padding: 0;
+  flex-direction: row;
+  align-items: center;
+  list-style-type: none;
+}
+.header__button {
+  width: 160px;
+  height: 48px;
+  background-color: #3040C4;
+  color:#fff;
+  text-align: center;
+}
