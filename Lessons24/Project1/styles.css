@@ -551,6 +551,7 @@
 }
 @media screen and (min-width: 1400px) {
   .headline__title {
+    margin-top: 0px;
     width: 754px;
     height: 165px;
     font-size: 80px;
@@ -614,11 +615,6 @@
     width: 796px;
     height: 448px;
     margin-left: auto;
-  }
-}
-@media screen and (min-width: 1400px) {
-  .headline__action-btn {
-    width: 100%;
   }
 }
 
