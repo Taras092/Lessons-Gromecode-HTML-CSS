@@ -2,9 +2,9 @@
   box-sizing: border-box;
 }
 body {
-  background-color:#141B1C ;
+  background-color: #141b1c;
   height: 1000px;
-  color: #FFFFFF;
+  color: #ffffff;
 }
 div {
   background-color: #334247;
@@ -29,14 +29,14 @@ div {
   height: 64px;
   text-align: center;
   line-height: 43px;
-  font-family:Montserrat;
+  font-family: "Montserrat";
   font-size: 35px;
   font-weight: 700;
   font-style: normal;
-  margin:33px 102px;
-} 
+  margin: 33px 102px;
+}
 .little__title {
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-size: 20px;
   font-weight: 300;
   line-height: 24px;
@@ -49,18 +49,18 @@ div {
   justify-content: center;
   align-items: center;
   font-size: 55px;
-  font-family: Montserrat;
+  font-family: "Montserrat";
   font-weight: 700;
   font-style: normal;
 }
 .one-colum {
-  background-color: #5BB189;
+  background-color: #5bb189;
 }
 .two-colum {
-  background-color: #3A6BA5;
+  background-color: #3a6ba5;
 }
 .three-colum {
-  background-color: #EC632A;
+  background-color: #ec632a;
 }
 .label__container {
   position: absolute;
@@ -74,13 +74,13 @@ div {
   align-items: center;
 }
 .label__container .label {
-  background-color: #DC3F45;
+  background-color: #dc3f45;
   text-transform: uppercase;
-  color: #FFFFFF;
+  color: #ffffff;
   transform: rotate(45deg);
   text-align: center;
   height: 25px;
-  font-family: 'Montserrat';
+  font-family: "Montserrat";
   font-weight: 700;
   font-size: 14px;
   line-height: 25px;
@@ -88,13 +88,13 @@ div {
   flex-shrink: 0;
 }
 .text-content {
-  width: 327px;;
+  width: 327px;
   height: 36px;
   margin: 40px 26px;
   font-size: 15px;
   font-weight: 300;
-  font-family:Montserrat;
-  color: #FFFFFF;
+  font-family: "Montserrat";
+  color: #ffffff;
   text-align: center;
   font-style: normal;
 }
@@ -104,13 +104,13 @@ div {
   line-height: 50px;
   font-size: 15px;
   font-weight: 300;
-  font-family: Montserrat;
-  color: #FFFFFF;
+  font-family: "Montserrat";
+  color: #ffffff;
   font-style: normal;
 }
 .price-card.two .price-card__options-list:nth-child(odd),
 .price-card__options-list:nth-child(even) {
-  background-color: #2A3438;
+  background-color: #2a3438;
 }
 .price-card.two .price-card__options-list:nth-child(even),
 .price-card__options-list:nth-child(odd) {
@@ -123,20 +123,20 @@ div {
   margin-left: 22px;
 }
 .content-button {
-  background-color: #5BB189;
+  background-color: #5bb189;
   border: none;
   border-radius: 20px;
   width: 154px;
   height: 40px;
   margin: 40px 112px;
-  color: #FFFFFF;
+  color: #ffffff;
   font-weight: 400;
   font-size: 14px;
   font-family: Montserrat;
 }
 .content-button.two-button {
-  background-color: #3A6BA5;
+  background-color: #3a6ba5;
 }
 .content-button.three-button {
-  background-color: #EC632A;
+  background-color: #ec632a;
 }
